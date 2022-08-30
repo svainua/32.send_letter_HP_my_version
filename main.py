@@ -4,8 +4,8 @@ import datetime as dt
 import smtplib
 import random
 
-MY_EMAIL = "irinasaratovska@gmail.com"
-MY_PASSWORD = "miobbncrhpjlqffa"
+MY_EMAIL = "YYY"
+MY_PASSWORD = "XXX"
 
 # 1. Update the birthdays.csv
 data = pandas.read_csv("birthdays.csv")
